@@ -9,7 +9,7 @@ Welcome to the repository for the UCSA 2024 Data Challenge submission. This chal
 2. [data_2022_2023.csv](data_2022_2023.csv)
    - Artistic Gymnastics data from 2022 to 2023.
 
-3. [data.csv](data.csv)
+3. [new.csv](new.csv)
    - Preprocessed dataset obtained by merging the above two datasets.
 
 ## Preprocessing and Modeling
