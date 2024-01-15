@@ -20,7 +20,7 @@ Welcome to the repository for the UCSA 2024 Data Challenge submission. This chal
    - Jupyter Notebook file illustrating the creation of functions for modeling.
 
 ## Report
-6. [result.pdf](result)
+6. [result.pdf](https://github.com/jennlee0102/UCSAS-2024-Data-Challenge/blob/main/result.pdf)
    - This directory contains a report detailing our work process and the results of the prediction.
 
 ## Challenge Information
