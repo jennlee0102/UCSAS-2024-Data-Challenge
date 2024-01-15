@@ -1,4 +1,4 @@
-# UCSA 2024 Data Challenge Submission Repository
+# UCSA 2024 Data Challenge
 
 Welcome to the repository for the UCSA 2024 Data Challenge submission. This challenge focuses on Artistic Gymnastics data, spanning from 2017 to 2023. The following files and directories are included in this repository:
 
