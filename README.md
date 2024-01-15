@@ -16,7 +16,7 @@ Welcome to the repository for the UCSA 2024 Data Challenge submission. This chal
 4. [preprocess.ipynb](https://github.com/jennlee0102/UCSAS-2024-Data-Challenge/blob/main/preprocess.ipynb)
    - Jupyter Notebook file showcasing the data processing steps.
 
-5. [modeling.ipynb](modeling.ipynb)
+5. [modeling.ipynb](https://github.com/jennlee0102/UCSAS-2024-Data-Challenge/blob/main/modeling.ipynb)
    - Jupyter Notebook file illustrating the creation of functions for modeling.
 
 ## Report
